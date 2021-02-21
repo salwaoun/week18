@@ -1,0 +1,13 @@
+{
+    "name": "My pet store ",
+    "shortname": "PetStore",
+    "description": "My Online Pet Store",
+    "icons":[{
+        "src": "rainbow.png",
+        "sizes":"512x512",
+        "type":"image/png"
+    }],
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#B12A34"
+}
