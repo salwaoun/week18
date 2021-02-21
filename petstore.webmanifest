@@ -3,7 +3,7 @@
     "shortname": "PetStore",
     "description": "My Online Pet Store",
     "icons":[{
-        "src": "rainbow.png",
+        "src": "images/rainbow.png",
         "sizes":"512x512",
         "type":"image/png"
     }],
